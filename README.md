@@ -1,6 +1,6 @@
 # README
 
-I focused on static version using material-ui rather than building components. For dynamic data, the demo is not yet feature complete.
+I focused on static version using material-ui rather than building components.
 
 ## Incomplete Steps
 
